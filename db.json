@@ -1,0 +1,20 @@
+{
+  "clientes": [
+    {
+      "nombre": "Transporte",
+      "empresa": "Tufesa",
+      "email": "yair_mc@hotmail.com",
+      "telefono": "321333",
+      "notas": "Camiones en proceso",
+      "id": 3
+    },
+    {
+      "nombre": "Full stack developer",
+      "empresa": "Hector",
+      "email": "torrozapata@gmail.com",
+      "telefono": "646464646",
+      "notas": "Es fullstack developer el morro",
+      "id": 9
+    }
+  ]
+}
